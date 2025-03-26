@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+<div style="text-align: center;">
+  <img src="/seladore-site.0/assets/fairyqueen.gif" alt="Fairy Queen" style="width: 80vw; max-width: 600px;" />
+</div>
